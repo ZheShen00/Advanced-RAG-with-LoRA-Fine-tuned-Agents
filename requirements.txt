@@ -1,0 +1,16 @@
+torch>=2.0.0
+transformers>=4.30.0
+peft>=0.4.0
+langchain>=0.0.267
+langchain-openai>=0.0.2
+langchain-pinecone>=0.0.1
+langchain-community>=0.0.9
+langgraph>=0.0.10
+pinecone-client>=2.2.2
+sentence-transformers>=2.2.2
+gradio>=3.34.0
+python-dotenv>=1.0.0
+matplotlib>=3.7.0
+networkx>=3.0
+numpy>=1.24.0
+pandas>=2.0.0
