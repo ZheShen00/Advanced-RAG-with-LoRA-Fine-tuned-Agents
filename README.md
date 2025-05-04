@@ -1,4 +1,4 @@
-# MLDS424 Stitching Project: Advanced RAG with LoRA Fine-tuned Agents
+# Multi-Agent RAG System for Unstructured Data Retrieval
 
 ## Project Overview
 
